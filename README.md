@@ -5,5 +5,5 @@ This portfolio covers the content studied in the Programming Languages ​​Dis
 
 Este projeto realiza uma análise de dados utilizando Python, bibliotecas como Pandas/NumPy, sqlite3, e etc. 
 
-[Clique aqui para ver o notebook completo]([caminho-do-arquivo.ipynb](https://github.com/hartz-ws/Portf-lio-de-Programa-o---ADS/blob/main/Liguagem_em_Python_Programação.ipynb))
-
+# Segue Link abaixo:
+https://github.com/hartz-ws/Portf-lio-de-Programa-o---ADS/blob/main/Liguagem_em_Python_Programação.ipynb
